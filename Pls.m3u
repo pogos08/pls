@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,rtsp://185.78.93.252:8805/user=admin&password=Igezer89$channel=0&stream=0?.sdp
-rtsp://185.78.93.252:8805/user=admin&password=Igezer89$channel=1&stream=0?.sdp
-#EXTINF:0,rtsp://185.78.93.252:8805/user=admin&password=Igezer89$channel=0&stream=1?.sdp
-rtsp://185.78.93.252:8805/user=admin&password=Igezer89$channel=1&stream=1?.sdp
+#EXTINF:0,rtsp://185.78.93.252:8805/user=admin&password=Igezer89&channel=0&stream=0?.sdp
+rtsp://185.78.93.252:8805/user=admin&password=Igezer89&channel=1&stream=0?.sdp
+#EXTINF:0,rtsp://185.78.93.252:8805/user=admin&password=Igezer89&channel=0&stream=1?.sdp
+rtsp://185.78.93.252:8805/user=admin&password=Igezer89&channel=1&stream=1?.sdp
